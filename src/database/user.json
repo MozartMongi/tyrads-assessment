@@ -1,0 +1,12 @@
+{
+    "name" : "John Demon",
+    "type" : "S",
+    "balance": 564,
+    "lastTransactions": [
+        {"name" : "Bessie Cooper", "fund": 3100, "date": "03 July 2023" , "image" : ""},
+        {"name" : "Guy Hawkin", "fund": 2210, "date": "02 July 2023"},
+        {"name" : "Floyd Miles", "fund": 3910, "date": "02 July 2023"},
+        {"name" : "James Vop", "fund": 1152, "date": "01 July 2023"},
+        {"name" : "Bratt Clint", "fund": 3100, "date": "01 July 2023"}
+    ]
+}
