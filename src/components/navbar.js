@@ -8,7 +8,6 @@ const Navbar = ({type = 'S'}) => {
     const [selectMenu, setSelectMenu] = useState('home')
     const handleSelect = (val) => {
         setSelectMenu(val)
-        console.log('val >>', val)
     }
 
 
